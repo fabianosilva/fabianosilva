@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+If you reached this profile this probably happened by mistake as I'm not as active I'd like tobe around here.
+Anyway, you may want to know I worked for many years with PHP and JEE but now retired from professional programming, I'm speding my conding skills with R and Python, with special interest in statistics and AI/ML.
+
+Cheers
+
 <!--
 **fabianosilva/fabianosilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
