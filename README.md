@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-If you reached this profile this probably happened by mistake as I'm not as active I'd like tobe around here.
+As you reached my profile I guess this happened by mistake as I'm not as active I'd like to be around here.
 Anyway, you may want to know I worked for many years with PHP and JEE but now retired from professional programming, I'm speding my conding skills with R and Python, with special interest in statistics and AI/ML.
 
 Cheers
